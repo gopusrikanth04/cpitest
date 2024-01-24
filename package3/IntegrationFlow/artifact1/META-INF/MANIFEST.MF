@@ -2,7 +2,7 @@ Manifest-Version: 1.0
 SAP-RuntimeProfile: iflmap
 Bundle-SymbolicName: artifact1; singleton:=true
 Bundle-Name: artifact1
-Bundle-Version: 1.0.0
+Bundle-Version: 1.0.1
 Bundle-ManifestVersion: 2
 Origin-Bundle-SymbolicName: artifact1
 SAP-NodeType: IFLMAP
